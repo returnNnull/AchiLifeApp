@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89672011590",
+    "project_id": "achilifeapp",
+    "storage_bucket": "achilifeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89672011590:android:58cc13ae58cdcddb745f47",
+        "android_client_info": {
+          "package_name": "com.bam.achilifeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89672011590-hcm8b4gqap3t082ogqhhlv9seaoc58ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9uYtAUc9kUtI0pE0JgtiHszDAVoPpcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89672011590-hcm8b4gqap3t082ogqhhlv9seaoc58ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
